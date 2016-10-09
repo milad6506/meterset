@@ -1,7 +1,7 @@
 SUMMARY = "Qt5 QML test app"
 HOMEPAGE = "http://www.jumpnowtek.com"
 LICENSE = "MIT"
-LIC_FILES_CHKSUM = "file://LICENSE;md5=0835ade698e0bcf8506ecda2f7b4f302"
+LIC_FILES_CHKSUM = "file://LICENSE;md5=7e906140db3bf8fa79fd876d9fdd0b1e"
 
 DEPENDS += "qtdeclarative"
 
